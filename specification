@@ -1,0 +1,13 @@
+PHP form using AJAX
+Responsive form for all screens. Form is submitted using AJAX, PHP.
+Compatible to all latest versions of PHP. It is very easy to implement.
+Features
+1. Responsive design for all screen
+2. Html Email after submiting a form.
+3. Submitted using prepare statement in a database
+4. secure and easy for implementation
+5. Dashboard facitlty for backend user.
+6. Export all the form details from database in.excel file
+7. Displaying all the form data in table format.
+
+
